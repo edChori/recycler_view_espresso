@@ -46,7 +46,7 @@ import org.junit.runner.RunWith;
 @LargeTest
 public class RecyclerViewSampleTest {
 
-    private static final int ITEM_BELOW_THE_FOLD = 60;
+    private static final int ITEM_BELOW_THE_FOLD = 40;
 
     /**
      * Use {@link ActivityScenario} to create and launch the activity under test. This is a
